@@ -1,0 +1,33 @@
+# Esqueleto: copie para web.yaml e complete os TODOs. Namespace: lab.
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: web
+  namespace: lab
+spec:
+  replicas: 1                      # TODO 1: precisa de pelo menos 2 (alta disponibilidade)
+  selector:
+    matchLabels: { app: web }
+  template:
+    metadata:
+      labels: { app: web }
+    spec:
+      containers:
+        - name: web
+          image: nginxinc/nginx-unprivileged:latest   # TODO 2: fixe uma versao (ex.: 1.27-alpine), nunca :latest
+          ports:
+            - containerPort: 8080
+          # TODO 3: resources com requests E limits de cpu e memory
+          # TODO 4: readinessProbe (httpGet path / porta 8080)
+          # TODO 5: securityContext com runAsNonRoot: true
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: web
+  namespace: lab
+spec:
+  selector: { app: web }
+  ports:
+    - port: 80
+      targetPort: 8080

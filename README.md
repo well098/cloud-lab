@@ -13,7 +13,7 @@ Cada missão em `missions/NN-nome/` tem `README.md` (roteiro) e `check.sh` (vali
 
 - [ ] S01 — Anomalia de custo (cryptomining no billing export) → `sandbox/01-anomalia-de-custo/`
 - [ ] S02 — IAM de menor privilégio → `sandbox/02-iam-menor-privilegio/`
-- [ ] S03 — Kubernetes local com kind (GKE na prática) — a criar
+- [ ] S03 — Kubernetes local com kind (GKE na prática) → `sandbox/03-kubernetes-local/` ⚠️ escrita, **ainda não testada com cluster real** (Docker Desktop não subiu na máquina de dev)
 
 > As missões em `missions/` precisam de billing account (o Google exige pré-pagamento de R$ 150 no Brasil). Ficam paradas; a trilha ativa é a `sandbox/`.
 

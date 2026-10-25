@@ -30,4 +30,4 @@ Laboratório de estudo de Google Cloud e depois Kubernetes (GKE). Objetivo do We
 - Nunca commitar chaves, `*.tfstate`, `.env`.
 
 ## Estado atual
-Ver checklist no `README.md`. Última atualização: 2026-10-25 — trilha `sandbox/` criada (01 anomalia de custo, 02 IAM menor privilégio); `missions/01` parada por falta de billing.
+Ver checklist no `README.md`. Última atualização: 2026-10-25 — sandbox 01 e 02 testadas; 03 (kind) escrita mas NÃO testada (Docker Desktop não iniciou o engine). kind v0.33.0 em ~/bin (checksum ok).
