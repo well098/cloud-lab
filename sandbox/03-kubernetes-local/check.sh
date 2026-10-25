@@ -12,7 +12,7 @@ fail() { echo "[FALHA] $*"; FAIL=1; }
 command -v kind >/dev/null && ok "kind encontrado" || fail "kind nao encontrado (esperado em ~/bin/kind.exe)"
 command -v kubectl >/dev/null && ok "kubectl encontrado" || fail "kubectl nao encontrado"
 [ -n "$PY" ] || fail "python nao encontrado"
-if timeout 15 docker info >/dev/null 2>&1; then ok "Docker rodando"; else fail "Docker nao esta rodando (abra o Docker Desktop)"; fi
+if timeout 20 docker version --format '{{.Server.Version}}' >/dev/null 2>&1; then ok "Docker rodando"; else fail "Docker nao esta rodando (abra o Docker Desktop)"; fi
 if timeout 20 kind get clusters 2>/dev/null | grep -qx lab-gke; then ok "cluster lab-gke existe"; else fail "cluster lab-gke nao existe (rode: bash setup.sh)"; fi
 
 if [ "$FAIL" -eq 0 ]; then
@@ -47,7 +47,7 @@ chk("readinessProbe" in c, "readinessProbe definida", "falta readinessProbe")
 nonroot = c.get("securityContext", {}).get("runAsNonRoot") or pod_sc.get("runAsNonRoot")
 chk(bool(nonroot), "runAsNonRoot: true", "falta securityContext.runAsNonRoot: true")
 rev = int(d["metadata"].get("annotations", {}).get("deployment.kubernetes.io/revision", "1"))
-chk(rev >= 2, f"rolling update realizado (revision {rev})", "faça um rolling update: troque a versao da imagem e reaplique (revision >= 2)")
+chk(rev >= 2, f"rolling update realizado (revision {rev})", "faca um rolling update: troque a versao da imagem e reaplique (revision >= 2)")
 addrs = sum(len(s.get("addresses", [])) for s in ep.get("subsets", []) or [])
 chk(addrs >= 2, f"Service 'web' com {addrs} endpoints", f"Service 'web' com {addrs} endpoints (esperado >= 2; confira selector/readiness)")
 sys.exit(1 if fail else 0)

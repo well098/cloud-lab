@@ -7,7 +7,7 @@ CLUSTER=lab-gke
 
 command -v kind >/dev/null    || { echo "kind nao encontrado (esperado em ~/bin/kind.exe)"; exit 1; }
 command -v kubectl >/dev/null || { echo "kubectl nao encontrado"; exit 1; }
-timeout 15 docker info >/dev/null 2>&1 || { echo "Docker nao esta rodando (abra o Docker Desktop)"; exit 1; }
+timeout 20 docker version --format '{{.Server.Version}}' >/dev/null 2>&1 || { echo "Docker nao esta rodando (abra o Docker Desktop)"; exit 1; }
 
 if timeout 20 kind get clusters 2>/dev/null | grep -qx "$CLUSTER"; then
   echo "cluster $CLUSTER ja existe"
