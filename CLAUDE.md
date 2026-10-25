@@ -14,6 +14,10 @@ Laboratório de estudo de Google Cloud e depois Kubernetes (GKE). Objetivo do We
 - Ao concluir uma missão, marcar o checklist do `README.md` raiz.
 - Nunca criar recursos pagos sem avisar custo antes; toda missão com recursos precisa de cleanup no fim (`cleanup.sh` ou seção no README).
 
+## Trilhas
+- `missions/` — missões no GCP **real** (exigem billing account). Bloqueadas: o Google pede pré-pagamento de R$ 150 pra ativar a conta; Wellington decidiu não pagar (2026-10-25).
+- `sandbox/` — missões **offline** (Python/Docker/kubectl local), mesmo molde README + `check.sh`. É a trilha ativa. No README, Passo A = onde ver isso no Console real; Passo B = hands-on local.
+
 ## Modo tutor
 - Guiar um passo por vez; esperar o "feito" antes do próximo.
 - 1-2 linhas explicando o porquê de cada passo.
@@ -26,4 +30,4 @@ Laboratório de estudo de Google Cloud e depois Kubernetes (GKE). Objetivo do We
 - Nunca commitar chaves, `*.tfstate`, `.env`.
 
 ## Estado atual
-Ver checklist no `README.md`. Última atualização: 2026-10-25 — repo criado, missão 01 pronta, nenhuma concluída.
+Ver checklist no `README.md`. Última atualização: 2026-10-25 — trilha `sandbox/` criada (01 anomalia de custo, 02 IAM menor privilégio); `missions/01` parada por falta de billing.

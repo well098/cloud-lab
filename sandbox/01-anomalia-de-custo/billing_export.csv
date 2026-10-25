@@ -1,0 +1,253 @@
+date,project,service,sku,cost_brl
+2026-09-01,lab-dev,Compute Engine,E2 Instance Core running,3.95
+2026-09-01,lab-dev,Cloud Storage,Standard Storage Brazil,1.18
+2026-09-01,lab-dev,BigQuery,Analysis,0.79
+2026-09-01,lab-dev,Cloud Logging,Log Volume,0.53
+2026-09-01,lab-prod,Compute Engine,E2 Instance Core running,2.97
+2026-09-01,lab-prod,Cloud Storage,Standard Storage Brazil,2.2
+2026-09-01,lab-prod,BigQuery,Analysis,1.03
+2026-09-01,lab-prod,Cloud Logging,Log Volume,0.69
+2026-09-02,lab-dev,Compute Engine,E2 Instance Core running,3.93
+2026-09-02,lab-dev,Cloud Storage,Standard Storage Brazil,1.21
+2026-09-02,lab-dev,BigQuery,Analysis,0.81
+2026-09-02,lab-dev,Cloud Logging,Log Volume,0.55
+2026-09-02,lab-prod,Compute Engine,E2 Instance Core running,3.16
+2026-09-02,lab-prod,Cloud Storage,Standard Storage Brazil,2.52
+2026-09-02,lab-prod,BigQuery,Analysis,0.94
+2026-09-02,lab-prod,Cloud Logging,Log Volume,0.64
+2026-09-03,lab-dev,Compute Engine,E2 Instance Core running,4.08
+2026-09-03,lab-dev,Cloud Storage,Standard Storage Brazil,1.33
+2026-09-03,lab-dev,BigQuery,Analysis,0.8
+2026-09-03,lab-dev,Cloud Logging,Log Volume,0.5
+2026-09-03,lab-prod,Compute Engine,E2 Instance Core running,3.13
+2026-09-03,lab-prod,Cloud Storage,Standard Storage Brazil,2.21
+2026-09-03,lab-prod,BigQuery,Analysis,0.98
+2026-09-03,lab-prod,Cloud Logging,Log Volume,0.73
+2026-09-04,lab-dev,Compute Engine,E2 Instance Core running,4.28
+2026-09-04,lab-dev,Cloud Storage,Standard Storage Brazil,1.18
+2026-09-04,lab-dev,BigQuery,Analysis,0.82
+2026-09-04,lab-dev,Cloud Logging,Log Volume,0.51
+2026-09-04,lab-prod,Compute Engine,E2 Instance Core running,3.19
+2026-09-04,lab-prod,Cloud Storage,Standard Storage Brazil,2.28
+2026-09-04,lab-prod,BigQuery,Analysis,1.05
+2026-09-04,lab-prod,Cloud Logging,Log Volume,0.62
+2026-09-05,lab-dev,Compute Engine,E2 Instance Core running,3.16
+2026-09-05,lab-dev,Cloud Storage,Standard Storage Brazil,1.14
+2026-09-05,lab-dev,BigQuery,Analysis,0.74
+2026-09-05,lab-dev,Cloud Logging,Log Volume,0.54
+2026-09-05,lab-prod,Compute Engine,E2 Instance Core running,3.16
+2026-09-05,lab-prod,Cloud Storage,Standard Storage Brazil,2.26
+2026-09-05,lab-prod,BigQuery,Analysis,1.07
+2026-09-05,lab-prod,Cloud Logging,Log Volume,0.64
+2026-09-06,lab-dev,Compute Engine,E2 Instance Core running,3.97
+2026-09-06,lab-dev,Cloud Storage,Standard Storage Brazil,1.17
+2026-09-06,lab-dev,BigQuery,Analysis,0.81
+2026-09-06,lab-dev,Cloud Logging,Log Volume,0.53
+2026-09-06,lab-prod,Compute Engine,E2 Instance Core running,3.15
+2026-09-06,lab-prod,Cloud Storage,Standard Storage Brazil,2.57
+2026-09-06,lab-prod,BigQuery,Analysis,1.05
+2026-09-06,lab-prod,Cloud Logging,Log Volume,0.73
+2026-09-07,lab-dev,Compute Engine,E2 Instance Core running,3.8
+2026-09-07,lab-dev,Cloud Storage,Standard Storage Brazil,1.13
+2026-09-07,lab-dev,BigQuery,Analysis,0.77
+2026-09-07,lab-dev,Cloud Logging,Log Volume,0.52
+2026-09-07,lab-prod,Compute Engine,E2 Instance Core running,2.94
+2026-09-07,lab-prod,Cloud Storage,Standard Storage Brazil,2.97
+2026-09-07,lab-prod,BigQuery,Analysis,0.93
+2026-09-07,lab-prod,Cloud Logging,Log Volume,0.64
+2026-09-08,lab-dev,Compute Engine,E2 Instance Core running,4.25
+2026-09-08,lab-dev,Cloud Storage,Standard Storage Brazil,1.34
+2026-09-08,lab-dev,BigQuery,Analysis,0.83
+2026-09-08,lab-dev,Cloud Logging,Log Volume,0.53
+2026-09-08,lab-prod,Compute Engine,E2 Instance Core running,3.34
+2026-09-08,lab-prod,Cloud Storage,Standard Storage Brazil,2.48
+2026-09-08,lab-prod,BigQuery,Analysis,0.89
+2026-09-08,lab-prod,Cloud Logging,Log Volume,0.67
+2026-09-09,lab-dev,Compute Engine,E2 Instance Core running,4.3
+2026-09-09,lab-dev,Cloud Storage,Standard Storage Brazil,1.06
+2026-09-09,lab-dev,BigQuery,Analysis,0.8
+2026-09-09,lab-dev,Cloud Logging,Log Volume,0.51
+2026-09-09,lab-prod,Compute Engine,E2 Instance Core running,2.92
+2026-09-09,lab-prod,Cloud Storage,Standard Storage Brazil,2.64
+2026-09-09,lab-prod,BigQuery,Analysis,1.05
+2026-09-09,lab-prod,Cloud Logging,Log Volume,0.83
+2026-09-10,lab-dev,Compute Engine,E2 Instance Core running,4.2
+2026-09-10,lab-dev,Cloud Storage,Standard Storage Brazil,1.14
+2026-09-10,lab-dev,BigQuery,Analysis,38.76
+2026-09-10,lab-dev,Cloud Logging,Log Volume,0.47
+2026-09-10,lab-prod,Compute Engine,E2 Instance Core running,3.23
+2026-09-10,lab-prod,Cloud Storage,Standard Storage Brazil,2.39
+2026-09-10,lab-prod,BigQuery,Analysis,0.99
+2026-09-10,lab-prod,Cloud Logging,Log Volume,0.74
+2026-09-11,lab-dev,Compute Engine,E2 Instance Core running,3.77
+2026-09-11,lab-dev,Cloud Storage,Standard Storage Brazil,1.17
+2026-09-11,lab-dev,BigQuery,Analysis,0.68
+2026-09-11,lab-dev,Cloud Logging,Log Volume,0.46
+2026-09-11,lab-prod,Compute Engine,E2 Instance Core running,2.86
+2026-09-11,lab-prod,Cloud Storage,Standard Storage Brazil,2.58
+2026-09-11,lab-prod,BigQuery,Analysis,1.1
+2026-09-11,lab-prod,Cloud Logging,Log Volume,0.7
+2026-09-12,lab-dev,Compute Engine,E2 Instance Core running,4.08
+2026-09-12,lab-dev,Cloud Storage,Standard Storage Brazil,1.22
+2026-09-12,lab-dev,BigQuery,Analysis,0.87
+2026-09-12,lab-dev,Cloud Logging,Log Volume,0.54
+2026-09-12,lab-prod,Compute Engine,E2 Instance Core running,3.07
+2026-09-12,lab-prod,Cloud Storage,Standard Storage Brazil,2.3
+2026-09-12,lab-prod,BigQuery,Analysis,1.07
+2026-09-12,lab-prod,Cloud Logging,Log Volume,0.72
+2026-09-13,lab-dev,Compute Engine,E2 Instance Core running,4.39
+2026-09-13,lab-dev,Cloud Storage,Standard Storage Brazil,1.2
+2026-09-13,lab-dev,BigQuery,Analysis,0.92
+2026-09-13,lab-dev,Cloud Logging,Log Volume,0.49
+2026-09-13,lab-prod,Compute Engine,E2 Instance Core running,3.38
+2026-09-13,lab-prod,Cloud Storage,Standard Storage Brazil,2.52
+2026-09-13,lab-prod,BigQuery,Analysis,0.96
+2026-09-13,lab-prod,Cloud Logging,Log Volume,0.64
+2026-09-14,lab-dev,Compute Engine,E2 Instance Core running,3.95
+2026-09-14,lab-dev,Cloud Storage,Standard Storage Brazil,1.34
+2026-09-14,lab-dev,BigQuery,Analysis,0.85
+2026-09-14,lab-dev,Cloud Logging,Log Volume,0.53
+2026-09-14,lab-prod,Compute Engine,E2 Instance Core running,2.43
+2026-09-14,lab-prod,Cloud Storage,Standard Storage Brazil,2.64
+2026-09-14,lab-prod,BigQuery,Analysis,1.04
+2026-09-14,lab-prod,Cloud Logging,Log Volume,0.67
+2026-09-15,lab-dev,Compute Engine,E2 Instance Core running,3.8
+2026-09-15,lab-dev,Cloud Storage,Standard Storage Brazil,1.2
+2026-09-15,lab-dev,BigQuery,Analysis,0.91
+2026-09-15,lab-dev,Cloud Logging,Log Volume,0.46
+2026-09-15,lab-prod,Compute Engine,E2 Instance Core running,2.9
+2026-09-15,lab-prod,Cloud Storage,Standard Storage Brazil,2.77
+2026-09-15,lab-prod,BigQuery,Analysis,0.96
+2026-09-15,lab-prod,Cloud Logging,Log Volume,0.68
+2026-09-16,lab-dev,Compute Engine,E2 Instance Core running,4.03
+2026-09-16,lab-dev,Cloud Storage,Standard Storage Brazil,1.08
+2026-09-16,lab-dev,BigQuery,Analysis,0.81
+2026-09-16,lab-dev,Cloud Logging,Log Volume,0.45
+2026-09-16,lab-prod,Compute Engine,E2 Instance Core running,3.21
+2026-09-16,lab-prod,Cloud Storage,Standard Storage Brazil,2.5
+2026-09-16,lab-prod,BigQuery,Analysis,1.18
+2026-09-16,lab-prod,Cloud Logging,Log Volume,0.72
+2026-09-17,lab-dev,Compute Engine,E2 Instance Core running,4.44
+2026-09-17,lab-dev,Cloud Storage,Standard Storage Brazil,1.07
+2026-09-17,lab-dev,BigQuery,Analysis,0.79
+2026-09-17,lab-dev,Cloud Logging,Log Volume,0.51
+2026-09-17,lab-prod,Compute Engine,E2 Instance Core running,3.42
+2026-09-17,lab-prod,Cloud Storage,Standard Storage Brazil,2.16
+2026-09-17,lab-prod,BigQuery,Analysis,1.08
+2026-09-17,lab-prod,Cloud Logging,Log Volume,0.73
+2026-09-18,lab-dev,Compute Engine,E2 Instance Core running,4.49
+2026-09-18,lab-dev,Cloud Storage,Standard Storage Brazil,1.27
+2026-09-18,lab-dev,BigQuery,Analysis,0.8
+2026-09-18,lab-dev,Cloud Logging,Log Volume,0.48
+2026-09-18,lab-prod,Compute Engine,E2 Instance Core running,2.7
+2026-09-18,lab-prod,Cloud Storage,Standard Storage Brazil,2.54
+2026-09-18,lab-prod,BigQuery,Analysis,0.98
+2026-09-18,lab-prod,Cloud Logging,Log Volume,0.81
+2026-09-19,lab-dev,Compute Engine,E2 Instance Core running,3.8
+2026-09-19,lab-dev,Cloud Storage,Standard Storage Brazil,1.23
+2026-09-19,lab-dev,BigQuery,Analysis,0.7
+2026-09-19,lab-dev,Cloud Logging,Log Volume,0.48
+2026-09-19,lab-prod,Compute Engine,E2 Instance Core running,3.06
+2026-09-19,lab-prod,Cloud Storage,Standard Storage Brazil,2.66
+2026-09-19,lab-prod,BigQuery,Analysis,1.12
+2026-09-19,lab-prod,Cloud Logging,Log Volume,0.7
+2026-09-19,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,80.53
+2026-09-20,lab-dev,Compute Engine,E2 Instance Core running,4.15
+2026-09-20,lab-dev,Cloud Storage,Standard Storage Brazil,1.25
+2026-09-20,lab-dev,BigQuery,Analysis,0.83
+2026-09-20,lab-dev,Cloud Logging,Log Volume,0.47
+2026-09-20,lab-prod,Compute Engine,E2 Instance Core running,3.27
+2026-09-20,lab-prod,Cloud Storage,Standard Storage Brazil,2.52
+2026-09-20,lab-prod,BigQuery,Analysis,1.06
+2026-09-20,lab-prod,Cloud Logging,Log Volume,0.77
+2026-09-20,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,87.44
+2026-09-21,lab-dev,Compute Engine,E2 Instance Core running,4.09
+2026-09-21,lab-dev,Cloud Storage,Standard Storage Brazil,1.41
+2026-09-21,lab-dev,BigQuery,Analysis,0.82
+2026-09-21,lab-dev,Cloud Logging,Log Volume,0.49
+2026-09-21,lab-prod,Compute Engine,E2 Instance Core running,3.03
+2026-09-21,lab-prod,Cloud Storage,Standard Storage Brazil,2.8
+2026-09-21,lab-prod,BigQuery,Analysis,1.01
+2026-09-21,lab-prod,Cloud Logging,Log Volume,0.73
+2026-09-21,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,89.78
+2026-09-22,lab-dev,Compute Engine,E2 Instance Core running,3.84
+2026-09-22,lab-dev,Cloud Storage,Standard Storage Brazil,1.03
+2026-09-22,lab-dev,BigQuery,Analysis,0.82
+2026-09-22,lab-dev,Cloud Logging,Log Volume,0.51
+2026-09-22,lab-prod,Compute Engine,E2 Instance Core running,2.85
+2026-09-22,lab-prod,Cloud Storage,Standard Storage Brazil,2.67
+2026-09-22,lab-prod,BigQuery,Analysis,1.05
+2026-09-22,lab-prod,Cloud Logging,Log Volume,0.64
+2026-09-22,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,87.07
+2026-09-23,lab-dev,Compute Engine,E2 Instance Core running,3.94
+2026-09-23,lab-dev,Cloud Storage,Standard Storage Brazil,1.06
+2026-09-23,lab-dev,BigQuery,Analysis,0.83
+2026-09-23,lab-dev,Cloud Logging,Log Volume,0.5
+2026-09-23,lab-prod,Compute Engine,E2 Instance Core running,2.82
+2026-09-23,lab-prod,Cloud Storage,Standard Storage Brazil,2.6
+2026-09-23,lab-prod,BigQuery,Analysis,1.04
+2026-09-23,lab-prod,Cloud Logging,Log Volume,0.67
+2026-09-23,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,86.6
+2026-09-24,lab-dev,Compute Engine,E2 Instance Core running,4.32
+2026-09-24,lab-dev,Cloud Storage,Standard Storage Brazil,1.13
+2026-09-24,lab-dev,BigQuery,Analysis,0.82
+2026-09-24,lab-dev,Cloud Logging,Log Volume,0.5
+2026-09-24,lab-prod,Compute Engine,E2 Instance Core running,3.54
+2026-09-24,lab-prod,Cloud Storage,Standard Storage Brazil,2.13
+2026-09-24,lab-prod,BigQuery,Analysis,1.06
+2026-09-24,lab-prod,Cloud Logging,Log Volume,0.68
+2026-09-24,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,84.6
+2026-09-25,lab-dev,Compute Engine,E2 Instance Core running,4.61
+2026-09-25,lab-dev,Cloud Storage,Standard Storage Brazil,1.2
+2026-09-25,lab-dev,BigQuery,Analysis,0.94
+2026-09-25,lab-dev,Cloud Logging,Log Volume,0.48
+2026-09-25,lab-prod,Compute Engine,E2 Instance Core running,3.08
+2026-09-25,lab-prod,Cloud Storage,Standard Storage Brazil,2.4
+2026-09-25,lab-prod,BigQuery,Analysis,0.94
+2026-09-25,lab-prod,Cloud Logging,Log Volume,0.7
+2026-09-25,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,83.87
+2026-09-26,lab-dev,Compute Engine,E2 Instance Core running,4.06
+2026-09-26,lab-dev,Cloud Storage,Standard Storage Brazil,1.0
+2026-09-26,lab-dev,BigQuery,Analysis,0.93
+2026-09-26,lab-dev,Cloud Logging,Log Volume,0.49
+2026-09-26,lab-prod,Compute Engine,E2 Instance Core running,3.42
+2026-09-26,lab-prod,Cloud Storage,Standard Storage Brazil,2.3
+2026-09-26,lab-prod,BigQuery,Analysis,1.02
+2026-09-26,lab-prod,Cloud Logging,Log Volume,0.88
+2026-09-26,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,81.52
+2026-09-27,lab-dev,Compute Engine,E2 Instance Core running,3.52
+2026-09-27,lab-dev,Cloud Storage,Standard Storage Brazil,1.15
+2026-09-27,lab-dev,BigQuery,Analysis,0.83
+2026-09-27,lab-dev,Cloud Logging,Log Volume,0.53
+2026-09-27,lab-prod,Compute Engine,E2 Instance Core running,3.31
+2026-09-27,lab-prod,Cloud Storage,Standard Storage Brazil,2.45
+2026-09-27,lab-prod,BigQuery,Analysis,0.87
+2026-09-27,lab-prod,Cloud Logging,Log Volume,0.68
+2026-09-27,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,89.96
+2026-09-28,lab-dev,Compute Engine,E2 Instance Core running,4.15
+2026-09-28,lab-dev,Cloud Storage,Standard Storage Brazil,1.01
+2026-09-28,lab-dev,BigQuery,Analysis,0.8
+2026-09-28,lab-dev,Cloud Logging,Log Volume,0.56
+2026-09-28,lab-prod,Compute Engine,E2 Instance Core running,3.51
+2026-09-28,lab-prod,Cloud Storage,Standard Storage Brazil,2.61
+2026-09-28,lab-prod,BigQuery,Analysis,1.02
+2026-09-28,lab-prod,Cloud Logging,Log Volume,0.63
+2026-09-28,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,81.63
+2026-09-29,lab-dev,Compute Engine,E2 Instance Core running,4.02
+2026-09-29,lab-dev,Cloud Storage,Standard Storage Brazil,1.25
+2026-09-29,lab-dev,BigQuery,Analysis,0.84
+2026-09-29,lab-dev,Cloud Logging,Log Volume,0.48
+2026-09-29,lab-prod,Compute Engine,E2 Instance Core running,2.72
+2026-09-29,lab-prod,Cloud Storage,Standard Storage Brazil,2.34
+2026-09-29,lab-prod,BigQuery,Analysis,0.91
+2026-09-29,lab-prod,Cloud Logging,Log Volume,0.74
+2026-09-29,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,75.75
+2026-09-30,lab-dev,Compute Engine,E2 Instance Core running,3.89
+2026-09-30,lab-dev,Cloud Storage,Standard Storage Brazil,1.24
+2026-09-30,lab-dev,BigQuery,Analysis,0.9
+2026-09-30,lab-dev,Cloud Logging,Log Volume,0.5
+2026-09-30,lab-prod,Compute Engine,E2 Instance Core running,3.24
+2026-09-30,lab-prod,Cloud Storage,Standard Storage Brazil,2.42
+2026-09-30,lab-prod,BigQuery,Analysis,0.94
+2026-09-30,lab-prod,Cloud Logging,Log Volume,0.66
+2026-09-30,lab-prod,Compute Engine,A2 Nvidia Tesla A100 GPU running,91.11

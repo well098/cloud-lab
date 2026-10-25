@@ -1,0 +1,9 @@
+{
+  "projeto": "",
+  "servico": "",
+  "sku_suspeito": "",
+  "primeiro_dia": "AAAA-MM-DD",
+  "custo_do_grupo_desde_o_inicio_brl": 0,
+  "falso_positivo": "projeto/servico",
+  "acao_recomendada": ""
+}

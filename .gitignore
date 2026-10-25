@@ -3,3 +3,5 @@
 *.tfvars
 *.json.key
 .env
+sandbox/*/resposta.json
+sandbox/*/*-corrigido.json

@@ -1,0 +1,7 @@
+{
+  "bucket": "lab-dados-relatorios",
+  "bindings": [
+    { "role": "roles/storage.legacyBucketOwner", "members": ["projectOwner:lab-prod"] },
+    { "role": "roles/storage.objectViewer", "members": ["allAuthenticatedUsers"] }
+  ]
+}

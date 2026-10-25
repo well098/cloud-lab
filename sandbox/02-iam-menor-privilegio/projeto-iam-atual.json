@@ -1,0 +1,7 @@
+{
+  "bindings": [
+    { "role": "roles/editor", "members": ["serviceAccount:app-reader@lab-prod.iam.gserviceaccount.com"] },
+    { "role": "roles/owner", "members": ["user:admin@example.com"] },
+    { "role": "roles/viewer", "members": ["group:time-suporte@example.com"] }
+  ]
+}
