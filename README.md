@@ -11,7 +11,7 @@ Cada missão em `missions/NN-nome/` tem `README.md` (roteiro) e `check.sh` (vali
 
 ## Sandbox (offline, sem conta GCP)
 
-- [ ] S01 — Anomalia de custo (cryptomining no billing export) → `sandbox/01-anomalia-de-custo/`
+- [x] S01 — Anomalia de custo (cryptomining no billing export) → `sandbox/01-anomalia-de-custo/`
 - [ ] S02 — IAM de menor privilégio → `sandbox/02-iam-menor-privilegio/`
 - [ ] S03 — Kubernetes local com kind (GKE na prática) → `sandbox/03-kubernetes-local/` testada de ponta a ponta com cluster real (kind v0.33.0)
 
