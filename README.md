@@ -17,7 +17,7 @@ Cada missão em `missions/NN-nome/` tem `README.md` (roteiro) e `check.sh` (vali
 
 ## Google Skills (labs oficiais grátis, 35 créditos/mês)
 
-- [ ] GSP647 — Configuring IAM Permissions with gcloud (1 crédito, 25 min): Task 1 feita (gcloud, SSH, região/zona, VM `lab-1`); Task 2 (configuração `user2`) pendente
+- [x] GSP647 — Configuring IAM Permissions with gcloud (1 crédito, 25 min): 100/100 em 28/10/2026 (configs `default`/`user2`, role customizado `devops`, service account anexada a VM)
 - [ ] Próximos (a verificar crédito/duração no catálogo antes): Compute Engine, Cloud Storage, VPC/firewall, Cloud Run, Terraform no GCP
 
 > As missões em `missions/` precisam de billing account (o Google exige pré-pagamento de R$ 150 no Brasil). Ficam paradas; a trilha ativa é a `sandbox/`.
