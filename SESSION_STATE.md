@@ -10,5 +10,5 @@
   - Lixo `;9~` no prompt (resto de atalho de teclado, tipo Alt+Tab) quebrou um comando; resolvido com Ctrl+U.
   - Sair da página do lab não perde nada: timer, VMs e nota ficam no servidor do Google.
 - Pendências: sandbox S02 (IAM menor privilégio) ainda não feita; confirmar próximos labs gratuitos (Compute Engine, Storage, VPC/firewall, Cloud Run, Terraform) com crédito e duração; créditos restantes no mês: ~33 de 35.
-- Próxima tarefa: fazer a sandbox S02 (reforça o que o GSP647 mostrou) ou escolher o próximo lab do catálogo (Cloud Storage ou VPC/firewall).
+- Próxima tarefa: sandbox S02 (IAM menor privilégio), ainda não começada (só foram lidos os JSONs `-atual`). Wellington terminou o GSP647 confuso: seguiu os comandos sem entender o quadro geral. **Mudar o método**: antes de editar, ~10 min de conceito (IAM = lista "quem pode fazer o quê, onde", com 3 exemplos do dia a dia), pedir que ele leia os dois JSONs e diga o que acha errado (mesmo errando), e só então editar. Explicar cada passo antes de pedir a ação. Depois da S02, escolher o próximo lab (Cloud Storage ou VPC/firewall).
 - Observações: o Wellington digita as credenciais do lab, nunca Claude. Credenciais temporárias apareceram em prints (expiram ao encerrar o lab).
